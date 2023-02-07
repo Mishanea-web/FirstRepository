@@ -1,1 +1,2 @@
-# Lab1
+# Nume : Lucasuc Mihail
+# Grupa : CR-211
